@@ -1,4 +1,4 @@
-ARG VERSION
+ARG VERSION=0.70
 FROM hunterlong/statup:base-v${VERSION}
 MAINTAINER "Hunter Long (https://github.com/hunterlong)"
 
